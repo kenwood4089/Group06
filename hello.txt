@@ -1,5 +1,10 @@
+y
 hello
+<<<<<<< HEAD
 adawdawdawd
 aawdawda
 
+=======
+eugene test
+>>>>>>> eugene
 
